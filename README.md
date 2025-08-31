@@ -41,6 +41,3 @@ Please enter the Base64 encrypted string: Zk8j10B9RswKBr98lKTyyfTglPl78Bn+
 - The key must be exactly 24 bytes long (characters encoded in UTF-8).
 - The encrypted data must be Base64 encoded and contain the IV in the first 8 bytes.
 - The script strips null bytes used for padding.
-
-## License
-MIT License — Feel free to use and modify as needed.
